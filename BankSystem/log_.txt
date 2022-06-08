@@ -1,0 +1,6 @@
+log_.txt
+Log exported on: Mon Jun  6 23:24:53 2022
+
+1. Added new customer with ID : 1232001.
+2. Added new savings account with IBAN : 1232001 to customer with ID : 1232001.
+Transactions count: 2
